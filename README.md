@@ -28,9 +28,32 @@ The project focuses on **high scalability, lead generation, and performance opti
 
 
 * Service page (e.g., GST / Company Registration / FSSAI / ISO)
+
+  <img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/f38f0b9f-4c08-4389-85f3-4db2cd99ee8d" />
+
+  <img width="1907" height="924" alt="image" src="https://github.com/user-attachments/assets/795bb08e-defd-4435-8d92-3a2af75adef3" />
+
+
+  <img width="1907" height="924" alt="image" src="https://github.com/user-attachments/assets/fd17fa9e-6765-4ad7-8205-f460b298157b" />
+
+
+
 * Contact / form system
-* Mobile UI
+
+<img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/bfd56bc3-e6d0-4ce9-b7c4-619615e77156" />
+
+
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/a195c5c1-6093-4701-9b3f-c480f21fbda6" />
+
+
+
 * Reviews page
+
+  <img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/70fb5a22-2d1e-481a-97d5-5c26f3cf3fb7" />
+
+* Footer
+
+<img width="1916" height="926" alt="image" src="https://github.com/user-attachments/assets/3481937e-e22f-42f0-8af0-27da635d64df" />
 
 
 ---
