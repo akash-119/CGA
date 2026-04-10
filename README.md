@@ -29,14 +29,10 @@ The project focuses on **high scalability, lead generation, and performance opti
 
 * Service page (e.g., GST / Company Registration / FSSAI / ISO)
 
-  <img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/f38f0b9f-4c08-4389-85f3-4db2cd99ee8d" />
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/f38f0b9f-4c08-4389-85f3-4db2cd99ee8d" />
 
 
-
-  <img width="1907" height="924" alt="image" src="https://github.com/user-attachments/assets/795bb08e-defd-4435-8d92-3a2af75adef3" />
-
-
-
+<img width="1907" height="924" alt="image" src="https://github.com/user-attachments/assets/795bb08e-defd-4435-8d92-3a2af75adef3" />
 
 * Contact / form system
 
@@ -49,7 +45,7 @@ The project focuses on **high scalability, lead generation, and performance opti
 
 * Reviews page
 
-  <img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/70fb5a22-2d1e-481a-97d5-5c26f3cf3fb7" />
+<img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/70fb5a22-2d1e-481a-97d5-5c26f3cf3fb7" />
 
 * Footer
 
@@ -100,7 +96,7 @@ The project focuses on **high scalability, lead generation, and performance opti
 This project follows a **scalable frontend architecture**:
 
 * Built using React and deployed as a static build
-* No backend framework used
+* Multiple pages
 * Each page has:
 
   * Separate content structure
