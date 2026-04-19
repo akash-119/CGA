@@ -26,6 +26,11 @@ The project focuses on **high scalability, lead generation, and performance opti
   
 <img width="1625" height="896" alt="image" src="https://github.com/user-attachments/assets/2b677306-c23a-4e83-b802-0038629f9c90" />
 
+*Navbar pages
+
+![Uploading image.png…]()
+
+
 
 * Service page (e.g., GST / Company Registration / FSSAI / ISO)
 
