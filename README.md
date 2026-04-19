@@ -34,6 +34,9 @@ The project focuses on **high scalability, lead generation, and performance opti
 
 <img width="1907" height="924" alt="image" src="https://github.com/user-attachments/assets/795bb08e-defd-4435-8d92-3a2af75adef3" />
 
+<img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/f8969006-e591-42df-864d-beca19c6d0d5" />
+
+
 * Contact / form system
 
 <img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/bfd56bc3-e6d0-4ce9-b7c4-619615e77156" />
