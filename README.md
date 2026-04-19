@@ -28,7 +28,8 @@ The project focuses on **high scalability, lead generation, and performance opti
 
 *Navbar pages
 
-![Uploading image.png…]()
+<img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/f5e37a59-b391-4596-8e3b-03a74c851a37" />
+
 
 
 
